@@ -1,2 +1,6 @@
 git init
 git remote add origin [url.git]
+//new 
+git push -u origin
+user:
+pass:
